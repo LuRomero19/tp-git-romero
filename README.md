@@ -1,1 +1,1 @@
-Editando desde GitHub
+Edición desde GitHub
